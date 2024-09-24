@@ -55,3 +55,5 @@ print(f'Средний баланс всех пользователей: {averag
 
 connection.commit()
 connection.close()
+
+
